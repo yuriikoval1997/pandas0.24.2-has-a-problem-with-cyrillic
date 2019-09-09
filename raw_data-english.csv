@@ -1,0 +1,19 @@
+field A,field B,field C,field D,class
+48,3.64,10.8,6.5,control
+38,3.71,18,9.6,control
+47,3.59,17.9,10.2,control
+38,4.32,11.8,7.4,control
+40,3.56,10.8,6.7,control
+47,4.01,13.5,9.7,control
+45,4.02,8.7,10.2,group X
+43,4.09,11.1,9,group X
+38,4.01,12.8,7.1,group X
+58,4.05,15.2,12.1,group X
+45,3.56,9.4,12.6,group X
+47,4.1,12.3,8.9,group X
+41,4.11,7.5,7.9,group Y
+41,3.99,6.7,8.4,group Y
+48,4.23,5.6,9.6,group Y
+43,4.32,5.5,8.2,group Y
+41,3.95,5.9,9,group Y
+48,3.89,7.1,11.2,group Y
